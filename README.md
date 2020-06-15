@@ -1,7 +1,7 @@
 # Trabalho_Facu
  Trabalho de Faculdade
 
-Criado por Márcio George Silva Santos (201921603). 
+Criado por Márcio George(201921603). 
 
 Site em beta (mas falando sério, vou depois transformá-lo em site portifólio) 
 
